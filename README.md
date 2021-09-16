@@ -10,7 +10,7 @@
 
 UnCSS is a tool that removes unused CSS from your stylesheets.
 It works across multiple files and supports Javascript-injected CSS.
-This fork was made because the [original](https://github.com/uncss/uncss) isn't maintained (starting Oct 2020, last checked Aug 2021).
+This fork was made because the [original](https://github.com/uncss/uncss) isn't maintained (starting Oct 2020, last checked September 2021).
 
 ## How
 
